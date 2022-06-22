@@ -6,6 +6,8 @@ public class MyClass {
 		System.out.println("Holle Git!");
 		
 		System.out.println("This Hello Git!!!");
+
+		System.out.println("Change in master branch");
 	}
 	
 	
