@@ -13,6 +13,11 @@ public class MyClass {
 	
 		MyHello myHello = new MyHello();
 		myHello.SayHello();
+		
+		//버전 2.0
+		System.out.println("v2.0");
+		
+		
 
 	}
 	
