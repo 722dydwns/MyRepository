@@ -6,15 +6,14 @@ public class MyClass {
 		System.out.println("Holle Git!");
 		
 		System.out.println("This Hello Git!!!");
-<<<<<<< HEAD
+
 
 		System.out.println("Change in master branch");
-=======
+
 	
 		MyHello myHello = new MyHello();
 		myHello.SayHello();
-		
->>>>>>> refs/heads/dev
+
 	}
 	
 	
